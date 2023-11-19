@@ -8,4 +8,5 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 Files in folder:
 1) Credit_Card_Approval.ipynb - Interactive Python Notebook 
-2) Output.html - Data Analysis HTML File
+2) output.html - Data Analysis HTML File
+3) cc_approvals.data - File containing data with csv separations
